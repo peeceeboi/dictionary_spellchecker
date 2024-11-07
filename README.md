@@ -5,7 +5,7 @@
 - Trie (fastest)
 
 Constructor for Spellchecker
-```
+```java
 public SpellChecker(String checkerType) {
  if (checkerType.equals("Trie")) {
   spellChecker = new TrieDictionary();
