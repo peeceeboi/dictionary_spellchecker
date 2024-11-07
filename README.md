@@ -1,5 +1,5 @@
 # Spellchecker
-## The spellchecker works with one of the following data structures (user-specified)
+## The spellchecker works with one of the following data structures for its dictionary (user-specified)
 - Array (constant dictionary size)
 - Resizing Array (resizes as new words are added or removed)
 - Trie (fastest)
